@@ -1,5 +1,5 @@
 import React from "react";
-import ProjectCards from "../ProjectCards";
+import ProjectCards from "../components/ProjectCards";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const projects = [
