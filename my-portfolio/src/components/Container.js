@@ -9,7 +9,7 @@ const styles = {
 export default function container({renderPage}) {
 
   return (
-    <div className="vh-100" style={styles.pageHeightStyles}>
+    <div className="container-fluid" style={styles.pageHeightStyles}>
       {renderPage()}
     </div>
   );

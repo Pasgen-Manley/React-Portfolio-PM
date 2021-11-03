@@ -2,17 +2,17 @@ import React from "react";
 
 function Resume() {
   return (
-    <section class="container">
+    <section className="container">
       <h2 className="top-title">Resume</h2>
       <hr></hr>
 
       <div>
-        <div class="mt-5">
+        <div className="mt-5">
           <h2 className="top-title">Pasgen Manley</h2>
         </div>
       </div>
 
-      <div class="justify-content-center mt-5">
+      <div className="justify-content-center mt-5">
         <div>
           <h2 className="top-title">Proficiencies</h2>
           <ul>
