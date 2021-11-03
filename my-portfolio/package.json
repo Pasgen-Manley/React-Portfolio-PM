@@ -19,12 +19,13 @@
   "bugs": {
     "url": "https://github.com/Pasgen-Manley/React-Portfolio-PM/issues"
   },
-  "homepage": "https://github.com/Pasgen-Manley/React-Portfolio-PM#readme",
+  "homepage": "https://Pasgen-Manley.github.io/React-Portfolio-PM",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.1.3",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-bootstrap": "^2.0.1",
     "react-dom": "^17.0.2",
