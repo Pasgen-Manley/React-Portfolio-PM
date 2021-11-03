@@ -17,7 +17,7 @@ A Basic React App being used as my profile to display some of my prior work.
 
 ## Usage
 Open the application via the deployed GitHub pages Link below.
-LINK: 
+LINK: https://pasgen-manley.github.io/React-Portfolio-PM/
 
 Example of how the about me page looks.
 ![About-me](https://user-images.githubusercontent.com/82016491/140029869-a0ce8378-7aae-45ea-b8a1-506de2310da0.png)
