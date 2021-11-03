@@ -6,7 +6,7 @@ const projects = [
   {
     id: 1,
     name: "TheGoods",
-    image: "../assets/images/TheGoods.png",
+    image: "../../assets/images/TheGoods.png",
     github: "https://github.com/Pasgen-Manley/TheGoods",
     deploy: "https://morning-ravine-85802.herokuapp.com/",
     topics: "Node.JS, Sequelize, Handlebars, Express.js, MySQL, MVC, dotenv, Gulp"
@@ -46,7 +46,7 @@ const projects = [
   {
     id: 6,
     name: "Note Taker",
-    image: "../assets/images/note-taker.png",
+    image: "../../assets/images/note-taker.png",
     github: "https://github.com/Pasgen-Manley/Note-Taker-Write-and-Save-Notes",
     deploy: "https://shrouded-shore-32119.herokuapp.com/",
     topics: "JS, Sequalize, Express, MySQL, Dotenv, Node.js"

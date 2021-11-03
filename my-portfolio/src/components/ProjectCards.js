@@ -10,8 +10,8 @@ function ProjectCards(props) {
       <div className="content">
         <p className="card-title">{props.name}</p>
         <p className="proj-icons-container">
-          <a href={props.github}><img class="project-icon" src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub Repo"/></a>
-          <a href={props.deploy}><img class="project-icon" src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Deployed App"/></a>
+          <a href={props.github}><img className="project-icon" src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub Repo"/></a>
+          <a href={props.deploy}><img className="project-icon" src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Deployed App"/></a>
         </p>
         <p className="topics">
           ({props.topics})
